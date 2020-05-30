@@ -1,0 +1,111 @@
+﻿@model TakmicenjeUcesniciVM
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@if (Model.Zakljucan == false)
+{
+    <table class="table-bordered">
+        <thead>
+            <tr>
+                <th>Odjeljenje</th>
+                <th>Broj u dnevniku</th>
+                <th>Pristupio takmičenju</th>
+                <th>Bodovi</th>
+                <th>Akcija</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Rows)
+            {
+                <tr>
+                    @if (item.Pristupio == true)
+                    {
+                        <td>@item.Odjeljenje</td>
+                        <td>@item.BrojUDnevniku</td>
+                        <td><a class="btn btn-primary prisutan" atribut="@item.Id">DA</a></td>
+                        <td>@item.Bodovi</td>
+                        <td><a class="urediClick" atribut="@item.Id">Uredi</a></td>
+                    }
+                    else
+                    {
+                        <td>@item.Odjeljenje</td>
+                        <td>@item.BrojUDnevniku</td>
+                        <td><a class="btn btn-danger odsutan" atribut="@item.Id">NE</a></td>
+                        <td>X</td>
+                        <td></td>
+                    }
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a class="btn btn-primary dodaj">Dodaj učenika</a>
+}
+else
+{
+    <table class="table-bordered">
+        <thead>
+            <tr>
+                <th>Odjeljenje</th>
+                <th>Broj u dnevniku</th>
+                <th>Pristupio takmičenju</th>
+                <th>Bodovi</th>
+                <th>Akcija</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Rows)
+            {
+                <tr>
+                    @if (item.Pristupio == true)
+                    {
+                        <td>@item.Odjeljenje</td>
+                        <td>@item.BrojUDnevniku</td>
+                        <td>DA</td>
+                        <td>@item.Bodovi</td>
+                        <td></td>
+                    }
+                    else
+                    {
+                        <td>@item.Odjeljenje</td>
+                        <td>@item.BrojUDnevniku</td>
+                        <td>NE</td>
+                        <td>X</td>
+                        <td></td>
+                    }
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<script>
+    $(document).ready(() => {
+        $(document).on('click', '.prisutan', function () {
+            var btn = $(this);
+            var id = btn.attr("atribut");
+            $.get("/Takmicenje/UcenikJePrisutan?id=" + id, function (data) {
+                $("#ucesnici").html(data);
+            });
+        });
+        $(document).on('click', '.odsutan', function () {
+            var btn = $(this);
+            var id = btn.attr("atribut");
+            $.get("/Takmicenje/UcenikJeOdsutan?id=" + id, function (data) {
+                $("#ucesnici").html(data);
+            });
+        });
+        $(document).on('click', '.urediClick', function () {
+            var btn = $(this);
+            var id = btn.attr("atribut");
+            $.get("/Takmicenje/UrediUcesnika?id=" + id, function (data) {
+                $("#ucesnici").html(data);
+            });
+        });
+        $(document).on('click', '.dodaj', function () {
+            $.get("/Takmicenje/DodajUcesnika?id=@Model.TakmicenjeId", function (data) {
+                $("#ucesnici").html(data);
+            });
+        });
+    });
+</script>

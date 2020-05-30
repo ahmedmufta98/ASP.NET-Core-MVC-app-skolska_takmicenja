@@ -1,0 +1,38 @@
+﻿@model TakmicenjeRezultatiVM
+@{
+    ViewData["Title"] = "Rezultati";
+}
+
+<h2>Rezultati takmičenja</h2>
+<br />
+<label>Škola domaćin:</label><label>@Model.Skola</label>
+<br />
+<label>Predmet:</label><label>@Model.Predmet</label>
+<br />
+<label>Razred:</label><label>@Model.Razred</label>
+<br />
+<label>Datum takmičenja:</label><label>@Model.Datum</label>
+<br />
+@if (Model.Zakljucan == false)
+{
+    <a class="btn btn-primary zakljucaj">Zaključaj</a>
+}
+
+<br />
+<br />
+<div id="ucesnici"></div>
+<br />
+<br />
+<a class="btn btn-primary" href="/Takmicenje/Dodaj?SkolaId=@Model.SkolaId&Razred=@Model.Razred">Novo takmičenje</a>
+<script>
+    $(document).ready(()=>{
+        $.get("/Takmicenje/Ucesnici?id=@Model.TakmicenjeId", function (data) {
+            $("#ucesnici").html(data);
+        });
+        $(document).on('click', '.zakljucaj', function () {
+            $.get("/Takmicenje/Zakljucaj?id=@Model.TakmicenjeId", function (data) {
+                $("#ucesnici").html(data);
+            });
+        });
+    });
+</script>

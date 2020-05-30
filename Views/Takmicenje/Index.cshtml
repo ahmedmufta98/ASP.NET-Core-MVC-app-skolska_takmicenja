@@ -1,0 +1,14 @@
+﻿@model  TakmicenjeIndexVM
+@{
+    ViewData["Title"] = "Index";
+}
+
+<br />
+<form action="/Takmicenje/PrikazTakmicenja" method="get">
+    <label>Škola domaćin:</label>
+    <select asp-for="SkolaId" asp-items="Model.Skole"></select><br />
+    <label>Razred:</label>
+    <select asp-for="Razred" asp-items="Model.Razredi"></select><br />
+    <input type="submit" value="Odaberi" class="btn btn-primary"/>
+</form>
+

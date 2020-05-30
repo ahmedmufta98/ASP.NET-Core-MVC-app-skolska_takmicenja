@@ -1,0 +1,36 @@
+﻿@model  TakmicenjeUrediDodajUcesnikaVM
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+    <form id="forma">
+        @if (Model.Id == 0)
+        {
+            <input asp-for="TakmicenjeId" readonly hidden />
+            <label>Učenik:</label>
+            <select asp-for="OdjeljenjeStavkaId" asp-items="Model.OdjeljenjeStavke"></select><br />
+            <label>Bodovi:</label><input asp-for="Bodovi" type="text" /><br />
+        }
+        else
+        {
+            <input asp-for="Id" readonly hidden />
+            <label>Učenik:</label>
+            <label>@Model.Ucenik</label><br />
+            <label>Bodovi:</label><input asp-for="Bodovi" type="text" /><br />
+        }
+        <input type="submit" value="Snimi" class="btn btn-default"/>
+    </form>
+
+<script>
+    $(document).ready(()=>{
+        $(document).on('submit', '#forma', function (event) {
+            event.preventDefault();
+            $.ajax({
+                url: "/Takmicenje/UrediDodajUcesnika",
+                method: "POST",
+                data: $("#forma").serialize(),
+                success: (data) => { $("#ucesnici").html(data); }
+            });
+        });
+    });
+</script>

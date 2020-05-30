@@ -1,0 +1,36 @@
+﻿@model  TakmicenjePrikazTakmicenjaVM
+@{
+    ViewData["Title"] = "PrikazTakmicenja";
+}
+
+<h1>Škola domaćin->@Model.Skola</h1>
+<h1>Razred->@Model.Razred</h1>
+<br />
+<table class="table">
+    <thead>
+        <tr>
+            <th>TakmičenjeID</th>
+            <th>Predmet</th>
+            <th>Razred</th>
+            <th>Datum takmičenja</th>
+            <th>Broj učenika koji nisu pristupili</th>
+            <th>Najbolji učesnik(Škola|Odjeljenje|Učenik)</th>
+            <th>Akcija</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model.Rows)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Predmet</td>
+                <td>@item.Razred</td>
+                <td>@item.Datum.ToString("dd.MM.yyyy")</td>
+                <td>@item.BrojUcesnikaKojiNisuPristupili</td>
+                <td>@item.NajboljiUcesnik</td>
+                <td><a href="/Takmicenje/Rezultati?id=@item.Id">Rezultati</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a class="btn btn-primary" href="/Takmicenje/Dodaj?SkolaId=@Model.SkolaId&Razred=@Model.Razred">Novo takmičenje</a>

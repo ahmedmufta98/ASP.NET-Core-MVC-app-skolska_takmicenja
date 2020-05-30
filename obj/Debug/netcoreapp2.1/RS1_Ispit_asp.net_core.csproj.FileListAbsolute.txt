@@ -1,0 +1,72 @@
+C:\tmp\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\tmp\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\bin\Debug\netcoreapp2.1\appsettings.json
+C:\tmp\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\bin\Debug\netcoreapp2.1\bundleconfig.json
+C:\tmp\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\tmp\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\bin\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.deps.json
+C:\tmp\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\bin\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.runtimeconfig.json
+C:\tmp\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\bin\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.runtimeconfig.dev.json
+C:\tmp\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\bin\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.dll
+C:\tmp\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\bin\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.pdb
+C:\tmp\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\bin\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.Views.dll
+C:\tmp\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\bin\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.Views.pdb
+C:\tmp\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.RazorAssemblyInfo.cache
+C:\tmp\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.RazorAssemblyInfo.cs
+C:\tmp\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.AssemblyInfoInputs.cache
+C:\tmp\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.AssemblyInfo.cs
+C:\tmp\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.TagHelpers.input.cache
+C:\tmp\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.TagHelpers.output.cache
+C:\tmp\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.RazorCoreGenerate.cache
+C:\tmp\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\Razor\Views\AjaxTest\Index.cshtml.g.cs
+C:\tmp\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\Razor\Views\AjaxTest\_AjaxTestView.cshtml.g.cs
+C:\tmp\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\tmp\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\Razor\Views\Home\Proba.cshtml.g.cs
+C:\tmp\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\Razor\Views\Home\TestDB.cshtml.g.cs
+C:\tmp\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\tmp\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\tmp\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\tmp\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\tmp\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\tmp\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.RazorTargetAssemblyInfo.cache
+C:\tmp\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.RazorTargetAssemblyInfo.cs
+C:\tmp\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.Views.pdb
+C:\tmp\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.dll
+C:\tmp\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.pdb
+C:\tmp\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.csproj.CopyComplete
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\bin\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.deps.json
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\bin\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.runtimeconfig.json
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\bin\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.runtimeconfig.dev.json
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\bin\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.dll
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\bin\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.pdb
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\bin\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.Views.dll
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\bin\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.Views.pdb
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.csprojAssemblyReference.cache
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.csproj.CoreCompileInputs.cache
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.RazorAssemblyInfo.cache
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.RazorAssemblyInfo.cs
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.AssemblyInfoInputs.cache
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.AssemblyInfo.cs
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.TagHelpers.input.cache
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.TagHelpers.output.cache
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.RazorCoreGenerate.cache
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\Razor\Views\AjaxTest\Index.g.cshtml.cs
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\Razor\Views\AjaxTest\_AjaxTestView.g.cshtml.cs
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\Razor\Views\Home\Proba.g.cshtml.cs
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\Razor\Views\Home\TestDB.g.cshtml.cs
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.RazorTargetAssemblyInfo.cache
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.RazorTargetAssemblyInfo.cs
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.Views.pdb
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.dll
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.pdb
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\RS1_Ispit_asp.net_core.csproj.CopyComplete
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\Razor\Views\Takmicenje\Index.g.cshtml.cs
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\Razor\Views\Takmicenje\PrikazTakmicenja.g.cshtml.cs
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\Razor\Views\Takmicenje\Dodaj.g.cshtml.cs
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\Razor\Views\Takmicenje\Rezultati.g.cshtml.cs
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\Razor\Views\Takmicenje\Ucesnici.g.cshtml.cs
+C:\Users\ZZO5\Desktop\FINALE 30.01.2020\rs1-2020-01-30\RS1_Ispit_2020_01_30_aspnet_core\RS1_Ispit\obj\Debug\netcoreapp2.1\Razor\Views\Takmicenje\UrediDodajUcesnika.g.cshtml.cs
